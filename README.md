@@ -53,4 +53,4 @@ This project is a professional YOLO-based real-time face anti-spoofing and image
    cvzone
 
 ##Output
-Real-Time Face Anti-Spoofing and Image Quality Assessment System\FinalOutput.png
+Real_Time_Face_Anti-spoofing_Detection\Outputrealandfake.png
