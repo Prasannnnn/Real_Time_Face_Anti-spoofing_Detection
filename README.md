@@ -30,7 +30,7 @@ This project is a professional YOLO-based real-time face anti-spoofing and image
    git clone https://github.com/yourusername/real-time-face-anti-spoofing.git
    cd real-time-face-anti-spoofing
 
-
+```
 ├── Dataset/
 │   ├── Datacollect/         # Stores captured data
 │   ├── SplitData/           # Train/Val/Test data splits
@@ -44,7 +44,7 @@ This project is a professional YOLO-based real-time face anti-spoofing and image
 ├── main.py                  # OpenCV-based standalone detection
 ├── requirements.txt         # Python dependencies
 ├── README.md                # Project documentation
-
+```
 
    ```plaintext
    opencv-python
